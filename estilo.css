@@ -1,0 +1,29 @@
+.menu{
+    text-align: center;
+    font-family: Inter;
+}
+
+.titulo{
+    text-align: center;
+    font-family: Inter;
+}
+
+.produtos{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    align-items: stretch;
+    display: flex;
+    justify-content: space-around;
+}
+ 
+   
+.um-produto{  
+    width: 371px;
+    border: 1px solid ;
+}
+ 
+   
+.descricao{
+    font-size: 16px;
+    margin: 16px;
+}
