@@ -12,14 +12,19 @@
     margin-top: 50px;
     margin-bottom: 50px;
     align-items: stretch;
+    flex-wrap: wrap;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
  
    
 .um-produto{  
     width: 371px;
     border: 1px solid ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
  
    
